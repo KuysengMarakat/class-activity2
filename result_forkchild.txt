@@ -1,0 +1,15 @@
+SThis is the parent process. Child PID = 4157
+total 64
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Desktop
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Documents
+drwxr-xr-x 2 marakat marakat  4096 Feb  5 22:55 Downloads
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Music
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Pictures
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Public
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Templates
+drwxr-xr-x 2 marakat marakat  4096 Feb  2 09:05 Videos
+drwxrwxr-x 2 marakat marakat  4096 Feb  6 16:57 class_activity2
+-rwxrwxr-x 1 marakat marakat 16248 Feb  6 17:00 forkchild
+-rw-rw-r-- 1 marakat marakat   637 Feb  6 16:58 forkchild.c
+-rw-rw-r-- 1 marakat marakat    45 Feb  6 17:00 result_forkchild.txt
+drwx------ 7 marakat marakat  4096 Feb  5 22:54 snap
